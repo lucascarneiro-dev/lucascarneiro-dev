@@ -36,7 +36,7 @@
 <img align="left" style="margin-left:20px" alt="Git" width="50px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/img/git.png" />
 </div>
 
-<br/>
+<br/><br/>
 
 <div align="center">
   <h2><b>🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</b></h2>
