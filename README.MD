@@ -3,7 +3,7 @@
   ![Visitors](https://visitor-badge.glitch.me/badge?page_id=lucascarneiro-dev&left_color=grey&right_color=green)
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- <img src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/icons8-tattoo-machine-48.png" height="30em" align="center"/> Amator tatoo artist
+- <img src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/icons8-tattoo-machine-48.png" height="25em" align="center"/> Amator tatoo artist
 - 💼 Volunteer Javascript Web Developer at [**Entre o Céu e a Favela**](https://www.facebook.com/Entreoceueafavela/)
 - 💼 Volunteer Python Web Developer at [**Scienzee**](https://www.linkedin.com/company/scienzee/)
 - 👾 Joy Time: One Piece(1000 chapters yay!), Call of Duty Mobile and League of Legends
@@ -18,12 +18,27 @@
 	- 𝙶𝚘 𝚜𝚔𝚢𝚍𝚒𝚟𝚒𝚗𝚐!
 	- Work in a great fintech(𝚒𝚏 𝚢𝚘𝚞 𝚑𝚊𝚟𝚎 𝚝𝚑𝚒𝚜 𝚙𝚘𝚠𝚎𝚛 𝚝𝚘 𝚙𝚕𝚎𝚊𝚜𝚎 𝚑𝚒𝚛𝚎 𝚖𝚎).😅
 
+### 🧰 Languages and Tools:
+
+<img align="left" alt="HTML5" width="26px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/blob/img/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/blob/img/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/blob/img/javascript.png" />
+<img align="left" alt="C" width="26px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/blob/img/c.png" />
+<img align="left" alt="Python" width="26px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/blob/img/python.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/blob/img/visual-studio-code.png" />
+<img align="left" alt="Git" width="26px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/blob/img/git.png" />
+
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lucascarneiro-dev&theme=merko&hide_border=true)](https://git.io/streak-stats)
+
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/lucascarneiro-dev/count.svg" />  
+</p>
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lucascarneiro-dev&theme=merko&hide_border=true)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucascarneiro-dev&show_icons=true&theme=radical)
 
-<figure &v=2><embed style="width:100%;"src="https://wakatime.com/share/@4072fb78-0fca-4cc1-80ca-b635684d66b1/683581c7-f2e4-4251-ad2d-c53f1f179343.svg" &v=2></embed><embed style="width:100%" src="https://wakatime.com/share/@4072fb78-0fca-4cc1-80ca-b635684d66b1/c425c102-8a69-4ab4-a819-22a83d6257d3.svg" &v=2></embed></figure>
+<figure><embed style="width:100%;"src="https://wakatime.com/share/@4072fb78-0fca-4cc1-80ca-b635684d66b1/683581c7-f2e4-4251-ad2d-c53f1f179343.svg" &v=2></embed><embed style="width:100%" src="https://wakatime.com/share/@4072fb78-0fca-4cc1-80ca-b635684d66b1/c425c102-8a69-4ab4-a819-22a83d6257d3.svg" &v=2></embed></figure>
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 form 𝚒𝚗 𝚖𝚢 portfolio. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
