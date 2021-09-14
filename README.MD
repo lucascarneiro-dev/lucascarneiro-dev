@@ -19,14 +19,15 @@
 	- Work in a great fintech(𝚒𝚏 𝚢𝚘𝚞 𝚑𝚊𝚟𝚎 𝚝𝚑𝚒𝚜 𝚙𝚘𝚠𝚎𝚛 𝚝𝚘 𝚙𝚕𝚎𝚊𝚜𝚎 𝚑𝚒𝚛𝚎 𝚖𝚎).😅
 
 ### 🧰 Languages and Tools:
-
-<img align="left" alt="HTML5" width="26px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/blob/img/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/blob/img/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/blob/img/javascript.png" />
-<img align="left" alt="Python" width="26px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/blob/img/python.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/blob/img/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/blob/img/git.png" />
-
+<p align="center">
+<a><img align="left" alt="HTML5" width="26px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/img/html.png" /></a> &nbsp;&nbsp; &nbsp;&nbsp;
+<a><img align="left" alt="CSS3" width="26px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/img/css.png" /></a> &nbsp;&nbsp; &nbsp;&nbsp;
+<a><img align="left" alt="JavaScript" width="26px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/img/javascript.png" /></a> &nbsp;&nbsp; &nbsp;&nbsp;
+<a><img align="left" alt="Python" width="26px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/img/python.png" /></a> &nbsp;&nbsp; &nbsp;&nbsp;
+<a><img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/img/visual-studio-code.png" /></a> &nbsp;&nbsp; &nbsp;&nbsp;
+<a><img align="left" alt="Git" width="26px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/img/git.png" /></a> &nbsp;&nbsp; &nbsp;&nbsp;
+</p>
+<br>
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 
 <p align="center" >   
