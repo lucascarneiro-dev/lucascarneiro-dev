@@ -35,7 +35,6 @@
 <img align="left" style="margin-left:20px" alt="Visual Studio Code" width="50px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/img/visual-studio-code.png" />
 <img align="left" style="margin-left:20px" alt="Git" width="50px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/img/git.png" />
 </div>
-
 <br/><br/>
 
 <div align="center">
@@ -70,7 +69,7 @@
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 form 𝚒𝚗 𝚖𝚢 portfolio. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
   </div>
 
-<div style="width:100%; display:flex;align-items: center;justify-content: center;">
+<div style="align="center">
 <a href="https://www.linkedin.com/in/lucascarneirodev/"><img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" alt="Connect with Lucas Carneiro on LinkedIn" title="Connect with Lucas Carneiro on LinkedIn" /></a>
 <a href="https://instagram.com/luks.car"><img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" style="margin-left:50px"  alt="Follow Lucas Carneiro on Instagram" title="Follow Lucas Carneiro on Instagram" /></a>
 </div>
