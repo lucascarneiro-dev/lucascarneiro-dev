@@ -23,7 +23,6 @@
 <img align="left" alt="HTML5" width="26px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/blob/img/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/blob/img/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/blob/img/javascript.png" />
-<img align="left" alt="C" width="26px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/blob/img/c.png" />
 <img align="left" alt="Python" width="26px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/blob/img/python.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/blob/img/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/blob/img/git.png" />
@@ -34,7 +33,9 @@
   <img src="https://profile-counter.glitch.me/lucascarneiro-dev/count.svg" />  
 </p>
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lucascarneiro-dev&theme=merko&hide_border=true)
+<p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=lucascarneiro-dev&theme=merko&hide_border=true" alt="candida18" /></p>
+
+![GitHub Streak]()
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucascarneiro-dev&show_icons=true&theme=radical)
 
