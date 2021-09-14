@@ -23,12 +23,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucascarneiro-dev&show_icons=true&theme=radical)
 
-<embed src="https://wakatime.com/share/@4072fb78-0fca-4cc1-80ca-b635684d66b1/683581c7-f2e4-4251-ad2d-c53f1f179343.svg"></embed>
-<embed src="https://wakatime.com/share/@4072fb78-0fca-4cc1-80ca-b635684d66b1/c425c102-8a69-4ab4-a819-22a83d6257d3.svg"></embed>
+<figure &v=2><embed style="width:100%;"src="https://wakatime.com/share/@4072fb78-0fca-4cc1-80ca-b635684d66b1/683581c7-f2e4-4251-ad2d-c53f1f179343.svg" &v=2></embed><embed style="width:100%" src="https://wakatime.com/share/@4072fb78-0fca-4cc1-80ca-b635684d66b1/c425c102-8a69-4ab4-a819-22a83d6257d3.svg" &v=2></embed></figure>
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 form 𝚒𝚗 𝚖𝚢 portfolio. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Connect with Lucas Carneiro on LinkedIn"/>](https://www.linkedin.com/in/lucascarneirodev/)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Follow Lucas Carneiro on Instagram"/>](https://instagram.com/luks.car)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Connect with Lucas Carneiro on LinkedIn" title="Connect with Lucas Carneiro on LinkedIn"/>](https://www.linkedin.com/in/lucascarneirodev/)[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Lucas Carneiro on Instagram" title="Follow Lucas Carneiro on Instagram"/>](https://instagram.com/luks.car)
 
