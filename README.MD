@@ -24,7 +24,7 @@
 	- Work in a great fintech(𝚒𝚏 𝚢𝚘𝚞 𝚑𝚊𝚟𝚎 𝚝𝚑𝚒𝚜 𝚙𝚘𝚠𝚎𝚛 𝚝𝚘 𝚙𝚕𝚎𝚊𝚜𝚎 𝚑𝚒𝚛𝚎 𝚖𝚎).😅
 
  <div align="center">
-  <h2><b><img src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/male-technologist.png" height="40em" align="center"/> Recent projects</b></h2>
+  <h2><b><img src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/img/male-technologist.png" height="40em" align="center"/> Recent projects</b></h2>
   </div>
 
 - [Danitor Crash pad](https://lucascarneiro-dev.github.io/danitor-booking/)
