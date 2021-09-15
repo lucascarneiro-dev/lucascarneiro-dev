@@ -10,6 +10,7 @@
 - 💼 Volunteer Javascript Web Developer at [**Entre o Céu e a Favela**](https://www.facebook.com/Entreoceueafavela/)
 - 💼 Volunteer Python Web Developer at [**Scienzee**](https://www.linkedin.com/company/scienzee/)
 - 👾 Joy Time: One Piece(1000 chapters yay!), Call of Duty Mobile and League of Legends
+<br/>
 
  <div align="center">
   <h2><b>⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘</b></h2>
@@ -45,17 +46,18 @@
 <img style="margin-left:20px" alt="Visual Studio Code" width="50px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/img/visual-studio-code.png" />
 <img style="margin-left:20px" alt="Git" width="50px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/img/git.png" />
 </div>
-<br/><br/>
+<br/>
+<br/>
 
-<div align="center">
-  <h2><b>🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</b></h2>
+  <div align="center">
+    <h2><b>🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</b></h2>
   </div>
 
-<div align="center">
+  <div align="center">
   <h6>
     <b>📍 Profile Visitor Count</b>
   </h6>
-</div>
+  </div>
 <div style="width:100%; display:flex;align-items: center;
   justify-content: center;">div align="center" >   
   <img src="https://profile-counter.glitch.me/lucascarneiro-dev/count.svg" />  
