@@ -63,10 +63,14 @@
   </p></div>
 
 <div style="width:100%; display:flex;align-items: center;
-  justify-content: center;"><p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=lucascarneiro-dev&theme=merko&hide_border=true" alt="candida18" /></p></div>
+  justify-content: center;"><p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lucascarneiro" alt="lucascarneiro-dev" /></p></div>
+
 
 <div style="width:100%; display:flex;align-items: center;
-  justify-content: center;"><p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lucascarneiro-dev&show_icons=true&theme=radical" alt="candida18" /></p></div>
+  justify-content: center;"><p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=lucascarneiro-dev&theme=merko&hide_border=true" alt="lucascarneiro-dev" /></p></div>
+
+<div style="width:100%; display:flex;align-items: center;
+  justify-content: center;"><p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lucascarneiro-dev&show_icons=true&theme=radical" alt="lucascarneiro-dev" /></p></div>
 
 
   <div style="width:100%; display:flex;align-items: center;
