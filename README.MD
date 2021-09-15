@@ -1,16 +1,16 @@
 <!-- [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](http://lucascarneiro.herokuapp.com/) -->
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
   
  <div align="center">
   <h2><b>📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎</b></h2>
   </div>
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 - 💾[My portfolio](https://lucascarneiro.herokuapp.com/)
 - <img src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/icons8-tattoo-machine-48.png" height="25em" align="center"/> Amator tatoo artist
 - 💼 Volunteer Javascript Web Developer at [**Entre o Céu e a Favela**](https://www.facebook.com/Entreoceueafavela/)
 - 💼 Volunteer Python Web Developer at [**Scienzee**](https://www.linkedin.com/company/scienzee/)
 - 👾 Joy Time: One Piece(1000 chapters yay!), Call of Duty Mobile and League of Legends
-- 
+
  <div align="center">
   <h2><b>⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘</b></h2>
   </div>
@@ -37,14 +37,14 @@
   <h2><b>🧰 Languages and Tools</b></h2>
   </div>
 
-<p align="center">
-<img align="left" style="margin-left:20px" alt="HTML5" width="50px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/img/html.png" />
-<img align="left" style="margin-left:20px" alt="CSS3" width="50px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/img/css.png" />
-<img align="left" style="margin-left:20px" alt="JavaScript" width="50px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/img/javascript.png" />
-<img align="left" style="margin-left:20px" alt="Python" width="50px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/img/python.png" />
-<img align="left" style="margin-left:20px" alt="Visual Studio Code" width="50px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/img/visual-studio-code.png" />
-<img align="left" style="margin-left:20px" alt="Git" width="50px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/img/git.png" />
-</p>
+<div align="center">
+<img style="margin-left:20px" alt="HTML5" width="50px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/img/html.png" />
+<img style="margin-left:20px" alt="CSS3" width="50px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/img/css.png" />
+<img style="margin-left:20px" alt="JavaScript" width="50px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/img/javascript.png" />
+<img style="margin-left:20px" alt="Python" width="50px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/img/python.png" />
+<img style="margin-left:20px" alt="Visual Studio Code" width="50px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/img/visual-studio-code.png" />
+<img style="margin-left:20px" alt="Git" width="50px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/img/git.png" />
+</div>
 <br/><br/>
 
 <div align="center">
@@ -57,7 +57,7 @@
   </h6>
 </div>
 <div style="width:100%; display:flex;align-items: center;
-  justify-content: center;"><p align="center" >   
+  justify-content: center;">div align="center" >   
   <img src="https://profile-counter.glitch.me/lucascarneiro-dev/count.svg" />  
 </p></div>
 
