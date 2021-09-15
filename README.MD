@@ -14,7 +14,6 @@
 
  <div align="center">
   <h2><b>⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘</b></h2>
-  </div>
 
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 learning NodeJs at [**Blue**](https://blueedtech.com.br/)
 - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
@@ -24,6 +23,7 @@
     - Start blogging and vlogging.
 	- 𝙶𝚘 𝚜𝚔𝚢𝚍𝚒𝚟𝚒𝚗𝚐!
 	- Work in a great fintech(𝚒𝚏 𝚢𝚘𝚞 𝚑𝚊𝚟𝚎 𝚝𝚑𝚒𝚜 𝚙𝚘𝚠𝚎𝚛 𝚝𝚘 𝚙𝚕𝚎𝚊𝚜𝚎 𝚑𝚒𝚛𝚎 𝚖𝚎).😅
+  </div>
 
  <div align="center">
   <h2><b><img src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/img/male-technologist.png" height="40em" align="center"/> Recent projects</b></h2>
@@ -58,10 +58,9 @@
     <b>📍 Profile Visitor Count</b>
   </h6>
   </div>
-<div style="width:100%; display:flex;align-items: center;
-  justify-content: center;">div align="center" >   
+  <div align="center" >   
   <img src="https://profile-counter.glitch.me/lucascarneiro-dev/count.svg" />  
-</p></div>
+  </p></div>
 
 <div style="width:100%; display:flex;align-items: center;
   justify-content: center;"><p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=lucascarneiro-dev&theme=merko&hide_border=true" alt="candida18" /></p></div>
