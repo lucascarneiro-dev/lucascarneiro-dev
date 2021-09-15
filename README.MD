@@ -3,6 +3,7 @@
  <div align="center">
   <h2><b>📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎</b></h2>
   </div>
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 - 💾[My portfolio](https://lucascarneiro.herokuapp.com/)
 - <img src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/icons8-tattoo-machine-48.png" height="25em" align="center"/> Amator tatoo artist
@@ -82,7 +83,7 @@
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 form o𝚗 𝚖𝚢 <a href="https://lucascarneiro.herokuapp.com/">portfolio</a> or in 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
   </div>
 
-<div style="align="center">
+<div align="center">
 <a href="https://www.linkedin.com/in/lucascarneirodev/"><img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" alt="Connect with Lucas Carneiro on LinkedIn" title="Connect with Lucas Carneiro on LinkedIn" /></a>
 <a href="https://instagram.com/luks.car"><img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" style="margin-left:50px"  alt="Follow Lucas Carneiro on Instagram" title="Follow Lucas Carneiro on Instagram" /></a>
 </div>
