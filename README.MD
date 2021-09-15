@@ -74,12 +74,12 @@
 
  <div align="center">
     <h2>
-      <b>😄 Connect With Me On</b>
+      <b>😄 Connect With Me</b>
     </h2>
   </div>
 
  <div align="center">
-𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 form 𝚒𝚗 𝚖𝚢 portfolio. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
+𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 form o𝚗 𝚖𝚢 <a href="https://lucascarneiro.herokuapp.com/">portfolio</a> or in 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
   </div>
 
 <div style="align="center">
