@@ -73,11 +73,9 @@
   justify-content: center;"><p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lucascarneiro-dev&show_icons=true&theme=radical" alt="lucascarneiro-dev" /></p></div>
 
 
-  <div style="width:100%; display:flex;align-items: center;
-  justify-content: center;"><img style="width:100%;"src="https://wakatime.com/share/@lucascarneiro/c785ea11-397f-45c1-8f97-4ce3ece831eb.png" ></img></div>
+  <div align="center"><img style="width:75%;"src="https://wakatime.com/share/@lucascarneiro/c785ea11-397f-45c1-8f97-4ce3ece831eb.png" ></img></div>
   
-  <div style="width:100%; display:flex;align-items: center;
-  justify-content: center;"><embed style="width:100%" src="https://wakatime.com/share/@lucascarneiro/f1b05116-8f50-46ea-9d0c-20a934f94da3.svg" ></embed></div>
+  <div align="center"><img style="width:75%;" src="https://wakatime.com/share/@lucascarneiro/f1b05116-8f50-46ea-9d0c-20a934f94da3.png" ></img></div>
 
  <div align="center">
     <h2>
