@@ -4,12 +4,12 @@
   <h2><b>📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎</b></h2>
   </div>
 
-- 💾[My portfolio](https://lucascarneiro.herokuapp.com/){:target="_blank"}
+- 💾[My portfolio](https://lucascarneiro.herokuapp.com/){:target="_blank" rel = "noopener"}
 - <img src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/icons8-tattoo-machine-48.png" height="25em" align="center"/> Amator tatoo artist
 - 💼 Volunteer Javascript Web Developer at [**Entre o Céu e a Favela**](https://www.facebook.com/Entreoceueafavela/)
 - 💼 Volunteer Python Web Developer at [**Scienzee**](https://www.linkedin.com/company/scienzee/)
 - 👾 Joy Time: One Piece(1000 chapters yay!), Call of Duty Mobile and League of Legends
-- 
+
  <div align="center">
   <h2><b>⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘</b></h2>
   </div>
@@ -27,10 +27,10 @@
   <h2><b><img src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/male-technologist.png" height="40em" align="center"/> Recent projects</b></h2>
   </div>
 
-- [Danitor Crash pad](https://lucascarneiro-dev.github.io/danitor-booking/){:target="_blank"}
-- [Rick and Morty API](https://rickandmortyapiblue.herokuapp.com/){:target="_blank"}
-- [Perfect Near NYC](http://hostelnearnyc.com/){:target="_blank"}
-- [Entre o Céu e a Favela](https://lucascarneiro-dev.github.io/entre-o-ceu-e-a-favela/){:target="_blank"}
+- [Danitor Crash pad](https://lucascarneiro-dev.github.io/danitor-booking/){:target="_blank" rel = "noopener"}
+- [Rick and Morty API](https://rickandmortyapiblue.herokuapp.com/){:target="_blank" rel = "noopener"}
+- [Perfect Near NYC](http://hostelnearnyc.com/){:target="_blank" rel = "noopener"}
+- [Entre o Céu e a Favela](https://lucascarneiro-dev.github.io/entre-o-ceu-e-a-favela/){:target="_blank" rel = "noopener"}
 
  <div align="center">
   <h2><b>🧰 Languages and Tools</b></h2>
