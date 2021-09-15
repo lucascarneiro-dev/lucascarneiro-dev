@@ -1,5 +1,4 @@
 <!-- [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](http://lucascarneiro.herokuapp.com/) -->
-<div style="background-color:#0d1117; width:100%">
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
   
  <div align="center">
@@ -88,5 +87,4 @@
 <div align="center">
 <a href="https://www.linkedin.com/in/lucascarneirodev/"><img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" alt="Connect with Lucas Carneiro on LinkedIn" title="Connect with Lucas Carneiro on LinkedIn" /></a>
 <a href="https://instagram.com/luks.car"><img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" style="margin-left:50px"  alt="Follow Lucas Carneiro on Instagram" title="Follow Lucas Carneiro on Instagram" /></a>
-</div>
 </div>
