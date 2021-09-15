@@ -4,11 +4,12 @@
   <h2><b>📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎</b></h2>
   </div>
 
+- 💾[My portfolio](https://lucascarneiro.herokuapp.com/)
 - <img src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/icons8-tattoo-machine-48.png" height="25em" align="center"/> Amator tatoo artist
 - 💼 Volunteer Javascript Web Developer at [**Entre o Céu e a Favela**](https://www.facebook.com/Entreoceueafavela/)
 - 💼 Volunteer Python Web Developer at [**Scienzee**](https://www.linkedin.com/company/scienzee/)
 - 👾 Joy Time: One Piece(1000 chapters yay!), Call of Duty Mobile and League of Legends
-
+- 
  <div align="center">
   <h2><b>⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘</b></h2>
   </div>
@@ -23,18 +24,26 @@
 	- Work in a great fintech(𝚒𝚏 𝚢𝚘𝚞 𝚑𝚊𝚟𝚎 𝚝𝚑𝚒𝚜 𝚙𝚘𝚠𝚎𝚛 𝚝𝚘 𝚙𝚕𝚎𝚊𝚜𝚎 𝚑𝚒𝚛𝚎 𝚖𝚎).😅
 
  <div align="center">
+  <h2><b><img src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/male-technologist.png" height="40em" align="center"/> Recent projects</b></h2>
+  </div>
+
+- [Danitor Crash pad](https://lucascarneiro-dev.github.io/danitor-booking/)
+- [Rick and Morty API](https://rickandmortyapiblue.herokuapp.com/)
+- [Perfect Near NYC](http://hostelnearnyc.com/)
+- [Entre o Céu e a Favela](https://lucascarneiro-dev.github.io/entre-o-ceu-e-a-favela/)
+
+ <div align="center">
   <h2><b>🧰 Languages and Tools</b></h2>
   </div>
 
-<div style="width:100%; display:flex;align-items: center;
-  justify-content: center;">
+<p align="center">
 <img align="left" style="margin-left:20px" alt="HTML5" width="50px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/img/html.png" />
 <img align="left" style="margin-left:20px" alt="CSS3" width="50px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/img/css.png" />
 <img align="left" style="margin-left:20px" alt="JavaScript" width="50px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/img/javascript.png" />
 <img align="left" style="margin-left:20px" alt="Python" width="50px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/img/python.png" />
 <img align="left" style="margin-left:20px" alt="Visual Studio Code" width="50px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/img/visual-studio-code.png" />
 <img align="left" style="margin-left:20px" alt="Git" width="50px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/img/git.png" />
-</div>
+</p>
 <br/><br/>
 
 <div align="center">
@@ -42,8 +51,10 @@
   </div>
 
 <div align="center">
-  <h6><b>📍 Profile Visitor Count</b></h6>
-  </div>
+  <h6>
+    <b>📍 Profile Visitor Count</b>
+  </h6>
+</div>
 <div style="width:100%; display:flex;align-items: center;
   justify-content: center;"><p align="center" >   
   <img src="https://profile-counter.glitch.me/lucascarneiro-dev/count.svg" />  
@@ -62,7 +73,9 @@
   justify-content: center;"><embed style="width:100%" src="https://wakatime.com/share/@4072fb78-0fca-4cc1-80ca-b635684d66b1/c425c102-8a69-4ab4-a819-22a83d6257d3.svg" &v=2></embed></div>
 
  <div align="center">
-  <h2><b>😄 Connect With Me On</b></h2>
+    <h2>
+      <b>😄 Connect With Me On</b>
+    </h2>
   </div>
 
  <div align="center">
