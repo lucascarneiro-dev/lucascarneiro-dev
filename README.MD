@@ -1,4 +1,5 @@
 <!-- [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](http://lucascarneiro.herokuapp.com/) -->
+<div style="background-color:#0d1117; width:100%">
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
   
  <div align="center">
@@ -6,7 +7,7 @@
   </div>
 
 - 💾[My portfolio](https://lucascarneiro.herokuapp.com/)
-- <img src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/icons8-tattoo-machine-48.png" height="25em" align="center"/> Amator tatoo artist
+- <img src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/icons8-tattoo-machine-48.png" height="20em" align="center"/> Amator tatoo artist
 - 💼 Volunteer Javascript Web Developer at [**Entre o Céu e a Favela**](https://www.facebook.com/Entreoceueafavela/)
 - 💼 Volunteer Python Web Developer at [**Scienzee**](https://www.linkedin.com/company/scienzee/)
 - 👾 Joy Time: One Piece(1000 chapters yay!), Call of Duty Mobile and League of Legends
@@ -28,10 +29,10 @@
  <div align="center">
   <h2><b><img src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/img/male-technologist.png" height="40em" align="center"/> Recent projects</b></h2>
 
-- [Danitor Crash pad](https://lucascarneiro-dev.github.io/danitor-booking/)
-- [Rick and Morty API](https://rickandmortyapiblue.herokuapp.com/)
-- [Perfect Near NYC](http://hostelnearnyc.com/)
-- [Entre o Céu e a Favela](https://lucascarneiro-dev.github.io/entre-o-ceu-e-a-favela/)
+[Danitor Crash pad](https://lucascarneiro-dev.github.io/danitor-booking/)
+[Rick and Morty API](https://rickandmortyapiblue.herokuapp.com/)
+[Perfect Near NYC](http://hostelnearnyc.com/)
+[Entre o Céu e a Favela](https://lucascarneiro-dev.github.io/entre-o-ceu-e-a-favela/)
   </div>
 
  <div align="center">
@@ -87,4 +88,5 @@
 <div align="center">
 <a href="https://www.linkedin.com/in/lucascarneirodev/"><img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" alt="Connect with Lucas Carneiro on LinkedIn" title="Connect with Lucas Carneiro on LinkedIn" /></a>
 <a href="https://instagram.com/luks.car"><img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" style="margin-left:50px"  alt="Follow Lucas Carneiro on Instagram" title="Follow Lucas Carneiro on Instagram" /></a>
+</div>
 </div>
