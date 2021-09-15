@@ -29,7 +29,7 @@
  <div align="center">
   <h2><b><img src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/img/male-technologist.png" height="40em" align="center"/> Recent projects</b></h2>
 
-<br/>[Danitor Crash pad](https://lucascarneiro-dev.github.io/danitor-booking/)
+[Danitor Crash pad](https://lucascarneiro-dev.github.io/danitor-booking/)
 <br/>[Rick and Morty API](https://rickandmortyapiblue.herokuapp.com/)
 <br/>[Perfect Near NYC](http://hostelnearnyc.com/)
 <br/>[Entre o Céu e a Favela](https://lucascarneiro-dev.github.io/entre-o-ceu-e-a-favela/)
