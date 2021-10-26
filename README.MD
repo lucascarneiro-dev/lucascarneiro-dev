@@ -16,7 +16,9 @@
   <h2><b>⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘</b></h2>
   </div>
 
-- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 learning NodeJs at [**Blue**](https://blueedtech.com.br/)
+- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 learning:
+    - Nest.Js at [**Blue**](https://blueedtech.com.br/)
+    - React at [**DIO**](https://digitalinnovation.one/)
 - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
     - Learn React
 	- Learn Data Science
