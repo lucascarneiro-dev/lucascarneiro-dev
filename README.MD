@@ -6,6 +6,7 @@
   </div>
 
 - 💾[My portfolio](https://lucascarneiro.herokuapp.com/)
+- 💼 Backend Developer at [**OSF Digital**](https://osf.digital/)
 - <img src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/icons8-tattoo-machine-48.png" height="20em" align="center"/> Amator tatoo artist
 - 💼 Volunteer Javascript Web Developer at [**Entre o Céu e a Favela**](https://www.facebook.com/Entreoceueafavela/)
 - 💼 Volunteer Python Web Developer at [**Scienzee**](https://www.linkedin.com/company/scienzee/)
