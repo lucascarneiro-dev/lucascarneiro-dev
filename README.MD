@@ -21,9 +21,10 @@
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 learning:
     - Nest.Js at [**Blue**](https://blueedtech.com.br/)
     - React at [**DIO**](https://digitalinnovation.one/)
+    - Data Science at [**Blue**](https://blueedtech.com.br/)
 - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
     - Learn React
-	- Learn Data Science
+	
 - 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
     - Start blogging and vlogging.
 	- 𝙶𝚘 𝚜𝚔𝚢𝚍𝚒𝚟𝚒𝚗𝚐!
