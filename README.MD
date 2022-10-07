@@ -7,7 +7,7 @@
 
 - 💾[My portfolio](https://lucascarneiro.herokuapp.com/)
 - 💼 Backend Developer at [**OSF Digital**](https://osf.digital/)
-- <img src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/icons8-tattoo-machine-48.png" height="20em" align="center"/> Amator tatoo artist
+- <img src="https://github.com/lucascarneirodev/lucascarneirodev/raw/main/icons8-tattoo-machine-48.png" height="20em" align="center"/> Amator tatoo artist
 - 💼 Volunteer Javascript Web Developer at [**Entre o Céu e a Favela**](https://www.facebook.com/Entreoceueafavela/)
 - 💼 Volunteer Python Web Developer at [**Scienzee**](https://www.linkedin.com/company/scienzee/)
 - 💼 IT Instructor at [**Entre o Céu e a Favela**](https://www.facebook.com/Entreoceueafavela/)
@@ -34,10 +34,10 @@
  <div align="center">
   <h2><b><img src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/img/male-technologist.png" height="40em" align="center"/> Recent projects</b></h2>
 
-[Danitor Crash pad](https://lucascarneiro-dev.github.io/danitor-booking/)
+[Danitor Crash pad](https://lucascarneirodev.github.io/danitor-booking/)
 <br/>[Rick and Morty API](https://rickandmortyapiblue.herokuapp.com/)
 <br/>[Perfect Near NYC](http://hostelnearnyc.com/)
-<br/>[Entre o Céu e a Favela](https://lucascarneiro-dev.github.io/entre-o-ceu-e-a-favela/)
+<br/>[Entre o Céu e a Favela](https://lucascarneirodev.github.io/entre-o-ceu-e-a-favela/)
   </div>
 
  <div align="center">
@@ -45,12 +45,12 @@
   </div>
 
 <div align="center">
-<img style="margin-left:20px" alt="HTML5" width="50px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/img/html.png" />
-<img style="margin-left:20px" alt="CSS3" width="50px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/img/css.png" />
-<img style="margin-left:20px" alt="JavaScript" width="50px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/img/javascript.png" />
-<img style="margin-left:20px" alt="Python" width="50px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/img/python.png" />
-<img style="margin-left:20px" alt="Visual Studio Code" width="50px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/img/visual-studio-code.png" />
-<img style="margin-left:20px" alt="Git" width="50px" src="https://github.com/lucascarneiro-dev/lucascarneiro-dev/raw/main/img/git.png" />
+<img style="margin-left:20px" alt="HTML5" width="50px" src="https://github.com/lucascarneirodev/lucascarneirodev/raw/main/img/html.png" />
+<img style="margin-left:20px" alt="CSS3" width="50px" src="https://github.com/lucascarneirodev/lucascarneirodev/raw/main/img/css.png" />
+<img style="margin-left:20px" alt="JavaScript" width="50px" src="https://github.com/lucascarneirodev/lucascarneirodev/raw/main/img/javascript.png" />
+<img style="margin-left:20px" alt="Python" width="50px" src="https://github.com/lucascarneirodev/lucascarneirodev/raw/main/img/python.png" />
+<img style="margin-left:20px" alt="Visual Studio Code" width="50px" src="https://github.com/lucascarneirodev/lucascarneirodev/raw/main/img/visual-studio-code.png" />
+<img style="margin-left:20px" alt="Git" width="50px" src="https://github.com/lucascarneirodev/lucascarneirodev/raw/main/img/git.png" />
 </div>
 <br/>
 <br/>
@@ -65,18 +65,18 @@
   </h6>
   </div>
   <div align="center" >   
-  <img src="https://profile-counter.glitch.me/lucascarneiro-dev/count.svg" />  
+  <img src="https://profile-counter.glitch.me/lucascarneirodev/count.svg" />  
   </p></div>
 
 <div style="width:100%; display:flex;align-items: center;
-  justify-content: center;"><p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lucascarneiro" alt="lucascarneiro-dev" /></p></div>
+  justify-content: center;"><p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lucascarneiro" alt="lucascarneirodev" /></p></div>
 
 
 <div style="width:100%; display:flex;align-items: center;
-  justify-content: center;"><p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=lucascarneiro-dev&theme=merko&hide_border=true" alt="lucascarneiro-dev" /></p></div>
+  justify-content: center;"><p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=lucascarneirodev&theme=merko&hide_border=true" alt="lucascarneirodev" /></p></div>
 
 <div style="width:100%; display:flex;align-items: center;
-  justify-content: center;"><p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lucascarneiro-dev&show_icons=true&theme=radical" alt="lucascarneiro-dev" /></p></div>
+  justify-content: center;"><p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=--dev&show_icons=true&theme=radical" alt="lucascarneirodev" /></p></div>
 
 
   <div align="center"><img style="width:50%;"src="https://wakatime.com/share/@lucascarneiro/c785ea11-397f-45c1-8f97-4ce3ece831eb.png" ></img></div>
