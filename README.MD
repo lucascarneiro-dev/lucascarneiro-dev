@@ -65,7 +65,7 @@
   </h6>
   </div>
   <div align="center" >   
-  <img src="https://profile-counter.glitch.me/lucascarneirodev/count.svg" />  
+  <img src="https://profile-counter.glitch.me/lucascarneiro-dev/count.svg" />  
   </p></div>
 
 <div style="width:100%; display:flex;align-items: center;
