@@ -7,8 +7,7 @@
 
 - 💾[My portfolio](https://lucascarneiro.herokuapp.com/)
 - 💼 Backend Developer at [**OSF Digital**](https://osf.digital/)
-<!-- - <img src="https://github.com/lucascarneirodev/lucascarneirodev/raw/main/icons8-tattoo-machine-48.png" height="20em" align="center"/> Amator tatoo artist -->
-- 💼 Volunteer Javascript Web Developer at [**Entre o Céu e a Favela**](https://www.facebook.com/Entreoceueafavela/)
+<!-- - <img src="https://github.com/lucascarneirodev/lucascarneirodev/raw/main/icons8-tattoo-machine-48.png" height="20em" align="center"/> Amator tatoo artist -->- 💼 Volunteer Javascript Web Developer at [**Entre o Céu e a Favela**](https://www.facebook.com/Entreoceueafavela/)
 - 💼 Volunteer Python Web Developer at [**Scienzee**](https://www.linkedin.com/company/scienzee/)
 - 💼 IT Instructor at [**Entre o Céu e a Favela**](https://www.facebook.com/Entreoceueafavela/)
 - 👾 Joy Time: One Piece(1000 chapters yay!), Call of Duty Mobile and League of Legends
